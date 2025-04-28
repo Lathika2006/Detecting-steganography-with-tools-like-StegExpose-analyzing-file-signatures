@@ -48,5 +48,17 @@ trick helps uncover such embedded archives.
 o Tools like binwalk, stegsolve, or zsteg can be used for deeper analysis,
 especially for PNG files or binary dumps.
 
+![image](https://github.com/user-attachments/assets/035e8786-9c28-4fea-ab5c-d8043da8a4fd)
+
+![image](https://github.com/user-attachments/assets/1a6903cd-cfa0-4fa7-837f-a34efa0a809c)
+
+![image](https://github.com/user-attachments/assets/89fdac1b-baf2-4600-9490-f9eb4dd4eee1)
+
+
+![image](https://github.com/user-attachments/assets/0f694699-9645-4aac-a938-8962943a920c)
+
+![image](https://github.com/user-attachments/assets/1482628d-4f2c-4a26-bfb1-62edd5b5efe1)
+
+
 ## RESULT:
 Hidden data was successfully detected and file signatures were analyzed for irregularities.
