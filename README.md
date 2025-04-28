@@ -60,5 +60,9 @@ especially for PNG files or binary dumps.
 ![image](https://github.com/user-attachments/assets/1482628d-4f2c-4a26-bfb1-62edd5b5efe1)
 
 
+![image](https://github.com/user-attachments/assets/4400dbfd-0fc9-4233-a6f3-9261bb569eca)
+
+
+
 ## RESULT:
 Hidden data was successfully detected and file signatures were analyzed for irregularities.
